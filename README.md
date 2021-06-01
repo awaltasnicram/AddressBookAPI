@@ -7,7 +7,7 @@ MongoDB.Driver
 MongoDB.Bson
 NETStandard.Library
 
-oraz wymagany .netcore w wersji 5.0 (bez tego może być problem w odnajdowaniu parametrów i dodawaniu, może być błąd, że parametr będzie mieć wartość 
+Dodatkowo wymagany jest .netcore w wersji 5.0 (bez tego może być problem w odnajdowaniu parametrów i dodawaniu, może być błąd, że parametr będzie mieć wartość 
 0 przez co bedzie wyskakiwać błąd)
 
 
