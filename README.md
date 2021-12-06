@@ -1,18 +1,11 @@
 # AddressBookAPI
 
-Do uruchomienia i poprawnego skompilowania pliku potrzeba zainstalować następujące nuggety:
-MongoDB.Driver
-MongoDB.Bson
+To run and compile the file correctly, you need to install the following nuggets: 
+MongoDB.Driver 
+MongoDB.Bson 
 NETStandard.Library
 
-Dodatkowo wymagany jest .netcore w wersji 5.0 (bez tego może być problem w odnajdowaniu parametrów i dodawaniu, może być błąd, że parametr będzie mieć wartość 
-0 przez co bedzie wyskakiwać błąd)
+Additionally, .netcore version 5.0 is required (without it there may be a problem in finding and adding parameters, there may be an error that the parameter will have a value of 0, which will cause an error)
 
-
-Do uruchemienia programu używany plik  AddressBookAPI.sln w lokalizacji AddressBookAPI
-Po uruchomieniu mamy pusty swagger do którego mozemy przy użyciu metody POST dodać nowy element.
-Istnieją 4 stringi: ID CIty Adres oraz Number do ktorych przypisujemy podane przez uzytkownika parametry
-Dodane są również metody GET zwracajacy wszystkie parametry jakie dodalismy oraz GET, gdzie mozemy sprawdzic konkretny parametr po numerze Id
-Dodatkowo istnieja  metody PUT dzięki któremu możemy dodawac parametry, które można dodać tylko raz(róznica pomiedzy POST jest taka, że PUT nie będzie
-duplikować a tym bardziej nadpisywać parametrów ) oraz DELETE, który służy do usuwania parametrów.
+The AddressBookAPI.sln file in the AddressBookAPI location is used to start the program. After starting, we have an empty swagger to which we can add a new item using the POST method. There are 4 strings: ID CIty Address and Number to which we assign the parameters provided by the user. There are also GET methods returning all the parameters we have added and GET, where we can check a specific parameter after the Id number Additionally, there are PUT methods thanks to which we can add parameters that can be added only once (the difference between POST is that PUT will not duplicate, much less overwrite parameters) and DELETE, which is used to delete parameters.
 
