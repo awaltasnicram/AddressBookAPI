@@ -16,4 +16,3 @@ Dodane są również metody GET zwracajacy wszystkie parametry jakie dodalismy o
 Dodatkowo istnieja  metody PUT dzięki któremu możemy dodawac parametry, które można dodać tylko raz(róznica pomiedzy POST jest taka, że PUT nie będzie
 duplikować a tym bardziej nadpisywać parametrów ) oraz DELETE, który służy do usuwania parametrów.
 
-Plik jest skompresowany do formatu .zip
