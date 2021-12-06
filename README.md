@@ -1,9 +1,9 @@
 # AddressBookAPI
 
 To run and compile the file correctly, you need to install the following nuggets: 
-MongoDB.Driver 
-MongoDB.Bson 
-NETStandard.Library
+MongoDB.Driver  
+MongoDB.Bson  
+NETStandard.Library 
 
 Additionally, .netcore version 5.0 is required (without it there may be a problem in finding and adding parameters, there may be an error that the parameter will have a value of 0, which will cause an error)
 
