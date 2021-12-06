@@ -1,0 +1,12 @@
+D:\staz\AddressBook\bin\Debug\net5.0\AddressBook.deps.json
+D:\staz\AddressBook\bin\Debug\net5.0\AddressBook.dll
+D:\staz\AddressBook\bin\Debug\net5.0\ref\AddressBook.dll
+D:\staz\AddressBook\bin\Debug\net5.0\AddressBook.pdb
+D:\staz\AddressBook\obj\Debug\net5.0\AddressBook.csproj.AssemblyReference.cache
+D:\staz\AddressBook\obj\Debug\net5.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\staz\AddressBook\obj\Debug\net5.0\AddressBook.AssemblyInfoInputs.cache
+D:\staz\AddressBook\obj\Debug\net5.0\AddressBook.AssemblyInfo.cs
+D:\staz\AddressBook\obj\Debug\net5.0\AddressBook.csproj.CoreCompileInputs.cache
+D:\staz\AddressBook\obj\Debug\net5.0\AddressBook.dll
+D:\staz\AddressBook\obj\Debug\net5.0\ref\AddressBook.dll
+D:\staz\AddressBook\obj\Debug\net5.0\AddressBook.pdb
