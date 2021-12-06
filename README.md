@@ -1,6 +1,4 @@
 # AddressBookAPI
-Ksiazka adresowa na staz
-
 
 Do uruchomienia i poprawnego skompilowania pliku potrzeba zainstalować następujące nuggety:
 MongoDB.Driver
